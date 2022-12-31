@@ -7,6 +7,7 @@ Software: Visual Studio Code (Extension: Jupyter Notebook).
 # Reference Data
 
 Total Data = 8895 cities.
+
 Credit to: https://simplemaps.com/data/id-cities.
 
 # Setting
@@ -23,4 +24,4 @@ Credit to: https://simplemaps.com/data/id-cities.
     $ pip install pandas
 ```
 
-* Run [Quadtree.ipynb](https://github.com/derryromeo/Quadtree/blob/main/Quadtree.ipynb.
+* Run [Quadtree.ipynb](https://github.com/derryromeo/Quadtree/blob/main/Quadtree.ipynb).
