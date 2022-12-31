@@ -1,1 +1,1 @@
-# Quad-Tree
+# Quadtree
