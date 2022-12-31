@@ -22,4 +22,4 @@ Software: Visual Studio Code (Extension: Jupyter Notebook)
 
 # Output
 
-![image.png](https://drive.google.com/file/d/1HarkBBnhHq-thOj-ZO5JyztgQCQdM5js/view?usp=sharing)
+![image](https://drive.google.com/uc?export=view&id=<1HarkBBnhHq-thOj-ZO5JyztgQCQdM5js>)
