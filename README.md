@@ -1,6 +1,6 @@
 # Quadtree
 
-Implementing a Quadtree in Python 3.11.1 based on Latitude (Y Axis) and Longitude (X Axis).
+Implementing a Quadtree in Python 3.11.1 based on Latitude (Y Axis) and Longitude (X Axis) US Cities.
 
 Software: Visual Studio Code (Extension: Jupyter Notebook).
 
