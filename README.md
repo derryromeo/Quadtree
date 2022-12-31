@@ -1,8 +1,13 @@
 # Quadtree
 
-Implementing a Quadtree in Python 3.11.1
+Implementing a Quadtree in Python 3.11.1 based on Latitude (Y Axis) and Longitude (X Axis).
 
-Software: Visual Studio Code (Extension: Jupyter Notebook)
+Software: Visual Studio Code (Extension: Jupyter Notebook).
+
+# Reference Data
+
+Total Data = 8895 cities.
+Credit to: https://simplemaps.com/data/id-cities.
 
 # Setting
 
@@ -18,8 +23,4 @@ Software: Visual Studio Code (Extension: Jupyter Notebook)
     $ pip install pandas
 ```
 
-* Run [Quadtree.ipynb](https://github.com/derryromeo/Quadtree/blob/main/Quadtree.ipynb).
-
-# Output
-
-![image](https://drive.google.com/uc?export=view&id=<1HarkBBnhHq-thOj-ZO5JyztgQCQdM5js>)
+* Run [Quadtree.ipynb](https://github.com/derryromeo/Quadtree/blob/main/Quadtree.ipynb.
